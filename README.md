@@ -1,5 +1,7 @@
 
 # Tortoise and the Hare Simulation
+<img width="1440" alt="Screenshot 2024-09-23 at 11 14 02" src="https://github.com/user-attachments/assets/1e7bc4b7-ad6e-432b-bebb-fac9446c79ad">
+
 https://www.youtube.com/watch?v=f2iKs1e_KX0
 
 This project is a console-based simulation of the classic race between the Tortoise and the Hare. The program models each racer with unique movement patterns: the Tortoise moves steadily but with occasional slips, while the Hare alternates between fast hops, slips, and naps. Each racer's position is updated in real-time, and the race is visually displayed using ASCII art in the terminal. The goal is for either racer to reach or surpass the finish line at position 70, with a dynamic race experience influenced by randomness.
